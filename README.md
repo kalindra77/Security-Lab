@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/secure.png" width="300">
+  <img src="assets/secure.png" width="270">
 </p>
 
 # Security Lab
