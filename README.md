@@ -33,6 +33,10 @@ Repositori ini dibuat sebagai arsip pembelajaran pribadi, portofolio, dan sekali
 - Basic android malware analysis 
 - Education and prevention of phishing and fraud
 
+<p align="center">
+  <img src="assets/sec.png" width="400">
+</p>
+
 ## 📂 Projects
 | Project | Deskripsi | Tools
 |----------|------------|------------|
