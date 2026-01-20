@@ -2,7 +2,7 @@
   <img src="assets/soc.png" width="400">
 </p>
 
-# Mini SOC Lab
+# Security Lab
 
 Repositori ini berisi dokumentasi pembelajaran dan eksperimen **cybersecurity** melalui **home lab**.  
 Tujuannya adalah untuk memahami konsep keamanan secara praktis, mulai dari dasar hingga penerapan tools keamanan di lingkungan simulasi.
