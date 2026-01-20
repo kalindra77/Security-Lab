@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/sec.png" width="400">
+  <img src="assets/secure.png" width="400">
 </p>
 
 # Security Lab
@@ -32,6 +32,7 @@ Repositori ini dibuat sebagai arsip pembelajaran pribadi, portofolio, dan sekali
 - Network analysis (TCP/IP, DNS, HTTP, SSH)
 - Basic android malware analysis 
 - Education and prevention of phishing and fraud
+
 
 <p align="center">
   <img src="assets/sec.png" width="400">
